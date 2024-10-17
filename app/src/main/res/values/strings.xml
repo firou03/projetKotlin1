@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">formulaire</string>
+    <string name="title_activity_forgot_password">ForgotPasswordActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+</resources>
